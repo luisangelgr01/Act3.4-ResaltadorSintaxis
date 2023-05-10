@@ -4,10 +4,10 @@
 
 1. Descargar el archivo "app.py" y el "sample.txt" localmente.
 2. Guardar ambos archivos en una nueva misma carpeta.
-3. Crear un Envirnment con .venv para el programa de python.  
+3. Crear un Envirnment con .venv (ambiente virtual) para el programa de Python.  
     3.1 Esto se puede realizar abriendo la carpeta desde Visual Studio Code, abrir desde ahi la ventana de "Command Palette" (en Mac se abre
     presionando Command+Shift+p). Después selecciona "Pyhton: Create Environment...", y finalmente seleccionando ".venv" (esto deberia de
-    crear una carpeta llamada ".venv" dentro de la carpeta en la que se esta trabajando con más componentes dentro). ESto deberia ser 
+    crear una carpeta llamada ".venv" dentro de la carpeta en la que se esta trabajando con más componentes dentro). Esto deberia ser 
     posible si Python fue instaldo correctamente en Visual Studio Code.
 4. Instalar la libreria de Flask en la carpeta donde se encuentra el archivo "app.py".  
     4.1 Esto se puede lograr abriendo una terminal nueva con la dirección de la carpeta de donde se esta trabajando. En la terminal correr 
