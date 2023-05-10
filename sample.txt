@@ -1,0 +1,10 @@
+abc = -3.5E-2 + 5 ^ 4 - 3
+i = 0.0
+j = 12
+
+if(i == 0 and j == 13) # Este es un comentario
+    break
+
+perro = animal / casa
+
+hola = 2 * 1024
